@@ -1,0 +1,10 @@
+vhdl xil_defaultlib  \
+"../../../bd/system/ip/system_proc_sys_reset_0_0/sim/system_proc_sys_reset_0_0.vhd" \
+"../../../bd/system/sim/system.vhd" \
+"../../../bd/system/ipshared/c27c/src/bubble_logic.vhd" \
+"../../../bd/system/ipshared/c27c/hdl/bubble_sort_ip_v1_0_S_AXI.vhd" \
+"../../../bd/system/ipshared/c27c/src/pe.vhd" \
+"../../../bd/system/ipshared/c27c/hdl/bubble_sort_ip_v1_0.vhd" \
+"../../../bd/system/ip/system_bubble_sort_ip_0_2/sim/system_bubble_sort_ip_0_2.vhd" \
+
+nosort

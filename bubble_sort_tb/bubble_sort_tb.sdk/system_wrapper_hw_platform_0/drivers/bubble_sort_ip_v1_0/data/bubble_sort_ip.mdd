@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER bubble_sort_ip
+	OPTION supported_peripherals = (bubble_sort_ip);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = bubble_sort_ip;
+END DRIVER

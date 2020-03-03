@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.1.3 (64-bit)
+# SW Build 2644227 on Wed Sep  4 09:45:24 MDT 2019
+# IP Build 2633630 on Wed Sep  4 12:30:14 MDT 2019
+# Start of session at: Tue Feb 11 12:47:22 2020
+# Process ID: 16752
+# Current directory: D:/College/Masters/Winter_2019-20/ECEC661/HW4/pe
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3472 D:\College\Masters\Winter_2019-20\ECEC661\HW4\pe\pe.xpr
+# Log file: D:/College/Masters/Winter_2019-20/ECEC661/HW4/pe/vivado.log
+# Journal file: D:/College/Masters/Winter_2019-20/ECEC661/HW4/pe\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/College/Masters/Winter_2019-20/ECEC661/HW4/pe/pe.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 11
+wait_on_run synth_1

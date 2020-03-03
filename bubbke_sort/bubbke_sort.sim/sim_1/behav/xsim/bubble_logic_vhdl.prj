@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../pe/pe.srcs/sources_1/new/pe.vhd" \
+"../../../../bubbke_sort.srcs/sources_1/new/bubble_logic.vhd" \
+
+# Do not sort compile order
+nosort
